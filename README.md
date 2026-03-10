@@ -1,6 +1,6 @@
 # iclick-skill
 
-iClick（爱触云）iOS 免越狱自动化技能包（OpenClaw Skill）。
+[iClick（爱触云）](https://iosclick.com) iOS 免越狱自动化技能包（OpenClaw Skill）。
 
 ## 功能概览
 
