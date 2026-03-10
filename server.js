@@ -20,7 +20,7 @@ function handleError(_error) {
 
     try {
 
-        await iclick.connect({ host: '192.168.31.15' })
+        await iclick.connect()
 
         const _params = _paramsRaw ? JSON.parse(_paramsRaw) : {}
    
